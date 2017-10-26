@@ -1,0 +1,58 @@
+body
+{
+	background-image: url("images/Background.jpg");
+}
+
+a
+{
+	color: white;
+	padding: 25px;
+}
+
+
+ul li
+{
+	color: white;
+}
+
+h1
+{
+	border: 2px solid blue;
+	text-align: center;
+	color: lightblue;
+}
+
+
+figure
+{
+	color: white;
+}
+
+table tr, td
+{
+	color: white;
+}
+
+caption
+{
+	color:yellow;
+}
+
+.John
+{
+	height:260px;
+	width:220px;
+}
+
+.Molly
+{
+	height:260px;
+	width:200px;
+}
+
+.Simon
+{
+	height:260px;
+	width:200px;
+}
+
